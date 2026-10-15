@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "486638089898",
+    "firebase_url": "https://noodles-e2bc1-default-rtdb.firebaseio.com",
+    "project_id": "noodles-e2bc1",
+    "storage_bucket": "noodles-e2bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486638089898:android:be89504738609be92f42d3",
+        "android_client_info": {
+          "package_name": "com.pika.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDig2Sj9WFauoCXNmaYapIxtNMN5PQ0UnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
